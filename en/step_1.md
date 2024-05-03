@@ -1,6 +1,6 @@
-Use the `<strong>` and `<em>` tags to emphasise text. `<strong>` is used for important text which should be bold. `<em>` is used for emphasised text that should have an italic (slanted) font.
+Use the `<strong>` and `<em>` tags to emphasise text. `<strong>` is used for important text that should be bold. `<em>` is used for emphasised text that should have an italic (slanted) font.
 
-![Lorem ipsum text in plain, bold, italic and bold italic.](images/strong-em-text.png)
+!['Lorem ipsum' text in plain, bold, italic, and bold italic.](images/strong-em-text.png)
 
 --- code ---
 ---
@@ -15,4 +15,4 @@ line_numbers: false
 
 --- /code ---
 
-**Tip:** You can combine `<strong>` and `<em>` tags to create text which is bold and italic.
+**Tip:** You can combine `<strong>` and `<em>` tags to create text that is bold and italic.
